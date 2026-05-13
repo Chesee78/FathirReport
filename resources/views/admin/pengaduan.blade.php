@@ -41,7 +41,7 @@
 </table>
 </div>
 
-<button type="button" onclick="history.back()" style="display: block; margin: 20px auto 0; padding: 10px 20px; border: none; background: #6c757d; color: white; border-radius: 5px; cursor: pointer;">
+<button type="button" onclick="history.back()" class="btn-back" style="display: block; margin: 20px auto 0;">
     Kembali
 </button>
 
